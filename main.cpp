@@ -1,14 +1,3 @@
-// ==========================================================================
-// Barebones OpenGL Core Profile Boilerplate
-//    using the GLFW windowing system (http://www.glfw.org)
-//
-// Loosely based on
-//  - Chris Wellons' example (https://github.com/skeeto/opengl-demo) and
-//  - Camilla Berglund's example (http://www.glfw.org/docs/latest/quick.html)
-//
-// Author:  Sonny Chan, University of Calgary
-// Date:    December 2015
-// ==========================================================================
 
 #include <iostream>
 #include <fstream>
